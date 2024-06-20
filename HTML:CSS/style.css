@@ -1,0 +1,60 @@
+body {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,27,121,1) 45%, rgba(0,212,255,1) 100%);
+  overflow-x: hidden;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link {
+  color: cornflowerblue;	    font-size: 16px;line-height: 20px;
+}
+
+.title {
+  color:#222222;
+	font-size: 36px;
+	line-height: 36px;
+	font-weight: 500;
+}
+
+
+.text {
+  font-style: italic;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 30px;
+	color: #7D7987
+}
+
+.subtitle {
+  color: coral;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 80px;
+}
+
+.picture {
+  border-radius: 1000px;
+  height: 150px;
+  width: 150px;
+}
+
+.picture_text {
+  font-style:oblique;
+  font-size: normal;
+  line-height: 30px;
+  color:cornflowerblue;
+}
+
+.inputText {
+  border: 1px solid #ccc; 
+  outline:none;
+  border-radius: 15px;
+  height: 26px;
+  font-size: 14px;
+  line-height: 30px;
+}
+
